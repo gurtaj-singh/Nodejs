@@ -74,6 +74,8 @@
 	//var obj=JSON.parse(resume)
 
 	console.log(resume["Language Proficiency"])
+	console.log(resume["academic_detail"])
+	console.log(resume["Projects"])
 
 
 
